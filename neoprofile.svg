@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+  <tspan x="15" y="30">                                           </tspan>
+  <tspan x="15" y="50">                         .                 </tspan>
+  <tspan x="15" y="70">                   &amp;&amp;&amp;$&amp;&amp;&amp;&amp;&amp;&amp;&amp;X            </tspan>
+  <tspan x="15" y="90">                :&amp;&amp;&amp;x.:      x&amp;$;          </tspan>
+  <tspan x="15" y="110">              &amp;&amp;&amp;&amp;&amp;            &amp;X&amp;         </tspan>
+  <tspan x="15" y="130">            .&amp;&amp;&amp;&amp;&amp;+              XX;       </tspan>
+  <tspan x="15" y="150">           .&amp;&amp;&amp;&amp;&amp;&amp;x              X+        </tspan>
+  <tspan x="15" y="170">     $&amp;&amp;&amp;X $&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$$X .;        .         </tspan>
+  <tspan x="15" y="190">   &amp;+   X&amp;:&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; &amp;                      </tspan>
+  <tspan x="15" y="210">;$;   :;+&amp;+&amp;&amp;&amp;XX;&amp;&amp;+&amp; .;                   </tspan>
+  <tspan x="15" y="230">    $x$X+&amp;x&amp;&amp;&amp;&amp;$&amp;&amp;&amp;&amp;$ $X&amp;&amp;                 </tspan>
+  <tspan x="15" y="250"> : &amp;     &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;X &amp;    $+              </tspan>
+  <tspan x="15" y="270">        .x&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;.&amp;+  .                 </tspan>
+  <tspan x="15" y="290">       &amp;$xX&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;::&amp;X &amp;&amp;x              </tspan>
+  <tspan x="15" y="310">      &amp;   +&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;:      +x;           </tspan>
+  <tspan x="15" y="330">      ++   :x&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;X&amp;+$&amp;X&amp;&amp;&amp;+              </tspan>
+  <tspan x="15" y="350">      x: ..x&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$&amp;xx&amp;&amp;&amp;            </tspan>
+  <tspan x="15" y="370">        .;&amp;&amp;&amp;&amp;&amp;$&amp;$    .  :&amp;  X$XX;          </tspan>
+  <tspan x="15" y="390">        X&amp;&amp;X$           +&amp;   ;&amp;&amp;&amp;$         </tspan>
+  <tspan x="15" y="410">        &amp;&amp;&amp;&amp;&amp;&amp;&amp;+        ;x    .&amp;&amp;&amp;&amp;        </tspan>
+  <tspan x="15" y="430">        $&amp;&amp;&amp;&amp;&amp;&amp;&amp;:               +&amp;&amp;        </tspan>
+  <tspan x="15" y="450">        .&amp;&amp;&amp;&amp;&amp;&amp;&amp;                 .&amp;        </tspan>
+  <tspan x="15" y="470">         :&amp;&amp;&amp;&amp;&amp;&amp;                  &amp;        </tspan>
+  <tspan x="15" y="490">           &amp;&amp;$ ;x&amp;$               $        </tspan>
+  <tspan x="15" y="510">             &amp;&amp;                            </tspan>
+  <tspan x="15" y="530">               ;X;                         </tspan>
+</text>
+
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">alan@reptilianpride</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Windows, Linux</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Whoami</tspan>:<tspan class="cc" id="age_data_dots"> ......... </tspan><tspan class="value" id="age_data">MSc Data Science, Data Analyst/Scientist</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Kernel A</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">LLM, Agentic/Gen AI, ML, Stats, Data...</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel B</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Data Visualization, TSA, Forecasting...</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">SQL, Python, JavaScript</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">English</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Building Tools, Websites, Hacking</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Extra</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Music Production, Drums</tspan>
+<tspan x="390" y="310">- Misc</tspan> -————————————————————————————————————————————————————-—-
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">YouTube</tspan>.<tspan class="key">Tech</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Reptilian Pride</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">YouTube</tspan>.<tspan class="key">Music</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Dreamonic</tspan>
+<tspan x="390" y="390">- WHOAMI</tspan> -—————————————————————————————————————————————————————-—-
+<tspan x="390" y="410" class="cc"> </tspan><tspan class="value" id="loc_data">I bring order from chaos through data, finding clarity where others see noise, because the truth always hides in the devil	&#39;s details.</tspan>
+<tspan x="390" y="430" class="cc"> </tspan><tspan class="value" id="loc_data">where others see noise, because the truth always hides</tspan>
+<tspan x="390" y="450" class="cc"> </tspan><tspan class="value" id="loc_data">in the devil&#39;s details.</tspan>
+</text>
+</svg>
