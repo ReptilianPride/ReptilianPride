@@ -52,11 +52,11 @@
 <a href="https://x.com/WorldWideCipher" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@reptilianpride7520" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.kaggle.com/opticphantom" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
 </a>
