@@ -2,7 +2,7 @@
   <!-- Image for Dark Mode (Yellow) -->
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=998&color=F7F616&width=435&lines=Hey!+I'm+Alan;Welcome+to+my+Github!">
   <!-- Image for Light Mode (Purple) -->
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=9802B0&width=435&lines=Hey!+I'm+Alan;Welcome+to+by+Github!">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=9802B0&width=435&lines=Hey!+I'm+Alan;Welcome+to+my+Github!">
   <!-- Fallback Image (shows if the browser doesn't support the picture tag) -->
   <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=998&color=F7F616&width=435&lines=Hey!+I'm+Alan;Welcome+to+my+Github!">
 </picture>
