@@ -42,7 +42,7 @@ I build AI and Data Solutions to solve ALL problems.
 
 ### 📬 Connect
 <p align="left">
-<a href="www.linkedin.com/in/alan-r-ai" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/alan-r-ai/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;&nbsp;&nbsp;
