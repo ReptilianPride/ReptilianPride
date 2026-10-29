@@ -63,7 +63,7 @@ flowchart LR
     B --> C["🧠 News Trend Platform<br/>190K+ articles<br/>96% AUROC"]
     B --> D["🤖 AI Market News Agent<br/>LangGraph + Claude<br/>70% fewer API calls<br/>zero inference cost"]
     B --> E["📊 Uplift & A/B Engines<br/>SQL-first decisions"]
-    C --> F["🚀 Founding Data & AI Engineer<br/>Odeh & Wisdom"]
+    C --> F["🚀 Founding Data & AI Engineer<br/>@ a startup 🤫"]
     D --> F
     E --> F
     F --> G["🎯 Next stop: AI Engineer<br/>agents · RAG · production"]
