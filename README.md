@@ -10,7 +10,15 @@ I build AI and Data Solutions to solve ALL problems.
 | **RAG** | Semantic Search, Embeddings, Vector DBs, Chunking, Knowledge Graphs |
 | **ML & NLP** | PyTorch, Time-Series Models, Knowledge Graphs |
 | **Data & Backend** | Python, SQL, REST APIs, Data Pipelines |
-| **Decision Science** | Uplift Modelling, A/B Testing, Causal Inference, Statistics, Forecasting |
+| **Decision Science** | Uplift Modelling, A/B Testing, Causal Inference, Statistics, Forecasting |  
+
+&nbsp;  
+<a href="https://github.com/ReptilianPride?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_All_Repositories-FFFFFF?style=for-the-badge&logo=github&logoColor=black">
+    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories">
+  </picture>
+</a>
 
 ### 🧰 Toolkit
 ![Tool Calling](https://img.shields.io/badge/Tool_Calling-6366F1?style=flat-square)
